@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil 🫀🩹
 
-<!--
-**darklad-dot/darklad-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cybelly Leticia Oliveira Cornélio
 
-Here are some ideas to get you started:
+Estou estuando no alura;
+Estou me desenvolvendo na Linguagem JavaScript;
+Utilizo esse espaço para minha organizaçãoe compartilhamentos dos meus projetos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Você pode entrar em contato comigo através de:
+00001102706127sp@al.educacao.sp.gov.br
+
+@cybelly_olxv
+
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.disney.com.br%2Fnovidades%2Fexperimento-626-data-em-homenagem-ao-stitch&psig=AOvVaw0CyGG_oS72XwETYVkLcC_0&ust=1724444408237000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCLgZ22iYgDFQAAAAAdAAAAABAE)
